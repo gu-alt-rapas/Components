@@ -1,2 +1,2 @@
 # Components
-Testing components
+Educational purpose ( for me ) testing Arduino components
